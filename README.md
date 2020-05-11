@@ -10,7 +10,7 @@ Goals of this project are as follows:
 
 ### Hardware and Software requirements
 - Raspberry Pi
-⋅⋅⋅ The ultimate goal of this proposed method of lane curvature detection is to use it
+&nbsp;The ultimate goal of this proposed method of lane curvature detection is to use it
 for an in-vehicle system. Raspberry Pi suits perfectly to serve the purpose as target
 hardware to run and test the method. The model that has been chosen is Rasp-
 berry Pi 3 B+ which is a Linux based single-chip computer. It is also possible to run on any other machine.
