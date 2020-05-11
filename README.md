@@ -8,7 +8,7 @@ Goals of this project are as follows:
 - Provide warning message in terms of curvy lane condition
 - Evaluate the proposed method on a Raspberry Pi 3 B+ environment
 
-### Hardware and Software requirements
+### Hardware and Software Requirement
 - Raspberry Pi
 
   The ultimate goal of this proposed method of lane curvature detection is to use it
