@@ -20,4 +20,4 @@ berry Pi 3 B+ which is a Linux based single-chip computer. It is also possible t
 - NumPy
 
 ### Project Architecture
-Assets folder contains two input video file to test the algorithm. Both lanecurvaturedetection.py and lanecurvaturedetection.ipynb have the same functionality. Use lanecurvaturedetection.ipynb to run from Jupyter Notebook. Use lanecurvaturedetection.py to run it from python IDE, windows command prompt or Raspberry Pi terminal. Make sure the assets folder is in the same directory.
+Assets folder contains two input video files to test the algorithm. Both lanecurvaturedetection.py and lanecurvaturedetection.ipynb have the same functionality. Use lanecurvaturedetection.ipynb to run from Jupyter Notebook. Use lanecurvaturedetection.py to run it from python IDE, windows command prompt or Raspberry Pi terminal. Make sure the assets folder is in the same directory.
